@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 
 """
-maltrail.py
+hashtrail.py
 
 Description : Searching malware using sha256 with MalwareBazaar API
 Auteur      : MenTa
 Date        : 2025
-Usage       : python maltrail.py [SHA256]
+Usage       : python hashtrail.py [SHA256]
 """
 
 import requests
