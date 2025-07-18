@@ -1,2 +1,2 @@
-# 🐪 Maltrail.py
+# 🐪 HashTrail.py
 A simple malware searcher in Malware database
